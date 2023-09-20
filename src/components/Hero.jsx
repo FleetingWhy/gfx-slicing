@@ -26,7 +26,7 @@ export function Hero() {
           </div>
         </div>
         <div className="lg:w-1/2 lg:flex lg:justify-end">
-          <img src="../../public/hyouka.png" alt="Hyouka" className="drop-shadow-2xl"  />
+          <img src="/hyouka.png" alt="Hyouka" className="drop-shadow-2xl"  />
         </div>
       </div>
     </section>
