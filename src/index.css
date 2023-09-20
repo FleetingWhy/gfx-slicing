@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@900&family=PT+Serif&display=swap');
+
+body {
+  background: linear-gradient(to bottom right, #253A53, #375276);
+  font-family: 'PT Serif', serif;
+  font-weight: bold;
+}
+/* html{margin: 0; height: 100%; overflow: hidden} */
+::-webkit-scrollbar {
+  display: none;
+}
+
+#japanese{
+  font-family: 'Noto Sans JP', sans-serif;
+}
